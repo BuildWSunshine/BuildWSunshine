@@ -18,6 +18,10 @@
 
 <table>
   <tr>
+    <td width="65%" valign="top">
+
+<table>
+  <tr>
     <td><b>Learning</b></td>
     <td>Python · JavaScript · interaction design · robotics foundations</td>
   </tr>
@@ -35,6 +39,19 @@
   </tr>
 </table>
 
+  </td>
+  <td width="35%" valign="top">
+<h3>📡 Studio Signals</h3>
+
+<p><b>Focus:</b> Deep field</p>
+<p><b>Energy:</b> ◉ ◉ ◉ ○ ○</p>
+<p><b>Weather:</b> quiet chaos</p>
+<p><b>Current spell:</b> build anyway</p>
+
+  </td>
+  </tr>
+</table>
+
 ---
 
 ## ✦ Languages & Tools
@@ -47,7 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" alt="Figma" />
 </p>
 
 ---
@@ -92,8 +108,8 @@
 
 ## ✦ Field Notes
 
-- I like software that feels intentional instead of loud.
-- I’m interested in learning tools that reduce pressure instead of adding noise.
+- I like software that feels intentional and breathes.
+- I’m interested in learning to use tools in ways that reduce pressure instead of adding noise.
 - I build slowly, notice too much, and make things that probably should not exist.
 - I care about atmosphere, interaction, and the small details that make a system feel alive.
 

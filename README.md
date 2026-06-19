@@ -78,7 +78,7 @@
     <td width="50%">
       <h3>🏛 Museum of Broken Ideas</h3>
       <p>A small digital museum for beautiful, failed, strange, unfinished, or absurd ideas.</p>
-      <p><i>Status:</i>in progress / public / front-end practice</p>
+      <p><i>Status:</i> in progress / public / front-end practice</p>
     </td>
     <td width="50%">
       <h3>🪄 Glitch Poetry Generator</h3>

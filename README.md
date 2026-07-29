@@ -72,12 +72,17 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🐧 Penguin</h3>
+    <td width="33%">
+  <h3>🍋 Lemon Hour</h3>
+  <p>A summer music world spanning a listening website, LemonPod, and a companion app for creating, keeping, and revisiting memories tied to songs.</p>
+  <p><i>Private and personal. Built slowly, with intention.</i></p>
+</td>
+    <td width="33%">
+      <h3>🐧 Northern Institute</h3>
       <p>A soft winter-themed Russian learning experience focused on atmosphere, speech, and calm interaction.</p>
       <p><i>Private for now. Still forming. Still teaching me things.</i></p>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3>🦈 Robot Shark Companion</h3>
       <p>A local AI desk companion concept with memory, personality, and eventually a body.</p>
       <p><i>Equal parts practical assistant and tiny menace.</i></p>
@@ -91,15 +96,25 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🏛 Museum of Broken Ideas</h3>
-      <p>A small digital museum for beautiful, failed, strange, unfinished, or absurd ideas.</p>
-      <p><i>Status:</i> ongoing / public / front-end practice</p>
+    <td width="50%" valign="top">
+      <h3>
+        <span style="display: inline-flex; align-items: center; gap: 0.45rem;">
+          <span aria-hidden="true">🌞</span>
+          <span>Build with Sunshine</span>
+        </span>
+      </h3>
+    <p>My public portfolio and front desk for selected creative technology projects, interactive experiments, and larger project worlds.</p>
+      <p><i>Status:</i> ongoing / public portfolio / AI-assisted development</p>
     </td>
-    <td width="50%">
-      <h3>🪄 Glitch Poetry Generator</h3>
-      <p>A creative coding experiment where text fractures, mutates, and becomes strange on purpose.</p>
-      <p><i>Status:</i> planned public build / pratice project</p>
+    <td width="50%" valign="top">
+      <h3>
+        <span style="display: inline-flex; align-items: center; gap: 0.45rem;">
+          <span aria-hidden="true">🍋</span>
+          <span>Things Left in August</span>
+        </span>
+      </h3>
+      <p>A small interactive August still life built publicly as an independent front-end learning project.</p>
+      <p><i>Status:</i> planned public build / independently developed practice project</p>
     </td>
   </tr>
 </table>

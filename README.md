@@ -5,11 +5,11 @@
 <h1 align="center">Sara | Build with Sunshine ☀️</h1>
 
 <p align="center">
-  <b>Creative technologist building calm tools, weird little systems, and projects that probably should not exist</b>
+  <b>Creative technologist building atmospheric interfaces, playful systems, and projects that probably should not exist.</b>
 </p>
 
 <p align="center">
-  Code as workshop. Projects as worlds. Learning as field research.
+  Code as workshop. Projects as worlds.
 </p>
 
 ---
@@ -23,15 +23,15 @@
 <table>
   <tr>
     <td><b>Learning</b></td>
-    <td>Python · JavaScript · interaction design · robotics foundations</td>
+    <td>JavaScript · Python · interaction design · electronics · robotics foundations</td>
   </tr>
   <tr>
     <td><b>Building</b></td>
-    <td>calm learning tools · creative coding experiments · tiny digital worlds</td>
+    <td>interactive worlds · physical devices · creative web experiences</td>
   </tr>
   <tr>
     <td><b>Exploring</b></td>
-    <td>language, memory, interface emotion, playful systems</td>
+    <td>memory · music · interface emotion · playful systems · embodied technology</td>
   </tr>
   <tr>
     <td><b>Mood</b></td>
@@ -41,12 +41,13 @@
 
   </td>
   <td width="35%" valign="top">
+
 <h3>📡 Studio Signals</h3>
 
-<p><b>Focus:</b> Deep field</p>
+<p><b>Focus:</b> building foundations</p>
 <p><b>Energy:</b> ◉ ◉ ◉ ○ ○</p>
-<p><b>Weather:</b> quiet chaos</p>
-<p><b>Current spell:</b> build anyway</p>
+<p><b>Weather:</b> productive turbulence</p>
+<p><b>Current spell:</b> learn, understand, build</p>
 
   </td>
   </tr>
@@ -60,76 +61,99 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" alt="Git" />
 </p>
 
 ---
 
-## ✦ Currently Building
+## ✦ Private Project Worlds
 
 <table>
   <tr>
-    <td width="33%">
-  <h3>🍋 Lemon Hour</h3>
-  <p>A summer music world spanning a listening website, LemonPod, and a companion app for creating, keeping, and revisiting memories tied to songs.</p>
-  <p><i>Private and personal. Built slowly, with intention.</i></p>
-</td>
-    <td width="33%">
-      <h3>🐧 Northern Institute</h3>
-      <p>A soft winter-themed Russian learning experience focused on atmosphere, speech, and calm interaction.</p>
-      <p><i>Private for now. Still forming. Still teaching me things.</i></p>
+    <td width="33%" valign="top">
+      <h3>🍋 LemonPod</h3>
+      <p>
+  A personal music device for owning the music you love, supporting the artists
+  behind it, and attaching memories to songs.
+</p>
+<p><i>Keep the music. Support the artist. Remember what it meant.</i></p>
     </td>
-    <td width="33%">
-      <h3>🦈 Robot Shark Companion</h3>
-      <p>A local AI desk companion concept with memory, personality, and eventually a body.</p>
-      <p><i>Equal parts practical assistant and tiny menace.</i></p>
+   <td width="33%" valign="top">
+  <h3>🦈 Nikki</h3>
+  <p>
+  A local AI robot shark companion with memory, personality,
+  trust issues, and eventually a body of his own.<br>&nbsp;
+</p>
+<p><i>Equal parts practical assistant and tiny menace.</i></p>
+</td>
+
+<td width="33%" valign="top">
+  <h3>🦀 Crabbo</h3>
+  <p>
+    Nikki’s small scout bot and marine accomplice, built to investigate
+    suspicious corners, report back, and occasionally create the problem.
+  </p>
+  <p><i>The smaller half of a deeply questionable partnership.</i></p>
+</td>
+  </tr>
+</table>
+
+---
+
+## ✦ Public Builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏖️ Studio Compound</h3>
+      <p>
+        An interactive portfolio world built as a growing digital studio rather
+        than a conventional project page.
+      </p>
+      <p>
+        It will connect selected projects through spaces, objects, environments,
+        and small moments of interaction.
+      </p>
+      <p><i>Status:</i> in development</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍋 Things Left in August</h3>
+      <p>
+  An interactive summer desktop where objects, light, and small animations
+  turn an ordinary August scene into something quietly alive.
+</p>
+<p>
+  A focused practice build exploring techniques for future projects.
+</p>
+<p><i>Status:</i> in development</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## ✦ Public Project Shelf
+## ✦ Future Signals
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <span style="display: inline-flex; align-items: center; gap: 0.45rem;">
-          <span aria-hidden="true">🌞</span>
-          <span>Build with Sunshine</span>
-        </span>
-      </h3>
-    <p>My public portfolio and front desk for selected creative technology projects, interactive experiments, and larger project worlds.</p>
-      <p><i>Status:</i> ongoing / public portfolio / AI-assisted development</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <span style="display: inline-flex; align-items: center; gap: 0.45rem;">
-          <span aria-hidden="true">🍋</span>
-          <span>Things Left in August</span>
-        </span>
-      </h3>
-      <p>A small interactive August still life built publicly as an independent front-end learning project.</p>
-      <p><i>Status:</i> planned public build / independently developed practice project</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🍋 &nbsp;&nbsp; 🖼️ &nbsp;&nbsp; 🍃 &nbsp;&nbsp; 🏝️ &nbsp;&nbsp; 🥥
+</p>
+
+<p align="center">
+  <i>Future interactive worlds and experiments waiting their turn.</i>
+</p>
 
 ---
 
 ## ✦ Field Notes
 
-- I like software that feels intentional and breathes.
-- I’m interested in learning to use tools in ways that reduce pressure instead of adding noise.
-- I build slowly, notice too much, and make things that probably should not exist.
-- I care about atmosphere, interaction, and the small details that make a system feel alive.
+- I like software that feels intentional, atmospheric, and alive.
+- I care about thoughtful interaction, strong visual direction, and memorable details.
+- I am interested in technology that supports creativity instead of flattening it.
+- I build digital worlds and physical experiments that tend to develop personalities of their own.
 
 ---
 
 <p align="center">
-  <i>We do not just write code. We leave little signals for future selves.</i>
+  <i>Making useful things stranger, and strange things useful.</i>
 </p>

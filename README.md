@@ -55,8 +55,7 @@ A small physical desk companion with movement, moods, reactions, and a tendency 
 <td valign="top" width="50%">
 
 <h3>🦀 Crabbo</h3>
-<p>
-A six-legged scout robot with competence, impulse-control problems, and questionable commitment decisions.
+<p>A six-legged scout robot with high competence, low impulse control, and questionable decisions.
 </p>
 
 </td>
@@ -78,32 +77,32 @@ A local AI shark companion exploring personality, memory, trust, and embodiment.
 <h2>✦ Public Builds</h2>
 
 <table>
-<tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📻 August FM</h3>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥤 Smoothie Site</h3>
+    </td>
+  </tr>
 
-<td valign="top" width="50%">
+  <tr>
+    <td valign="top">
+      An interactive summer radio with cassette nostalgia and station tuning.
+    </td>
+    <td valign="top">
+      A playful frontend build exploring layout, interaction, and rebuilding core web skills.
+    </td>
+  </tr>
 
-<h3>📻 August FM</h3>
-<p>
-An interactive summer radio with cassette nostalgia and station tuning.
-</p>
-
-<p><i>In development</i></p>
-
-</td>
-
-<td valign="top" width="50%">
-
-<h3>🥤 Smoothie Site</h3>
-<p>
- A playful frontend build exploring layout,
-        interaction, and rebuilding core web skills.
-</p>
-
-<p><i>In development</i></p>
-
-</td>
-
-</tr>
+  <tr>
+    <td valign="bottom">
+      <br><i>In development</i>
+    </td>
+    <td valign="bottom">
+      <br><i>In development</i>
+    </td>
+  </tr>
 </table>
 
 <hr>

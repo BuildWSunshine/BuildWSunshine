@@ -1,12 +1,21 @@
 <div align="center">
 
-<h1>☀️ Sara | Build with Sunshine</h1>
+  <h1>☀️ Sara | Build with Sunshine</h1>
 
-<p>
-I build worlds where art, code, and mechanics meet, occasionally with unnecessary emotional intensity.
+   <p>
+        I build worlds where art, code, and mechanics meet, occasionally with unnecessary emotional intensity.
+    </p>
+
+<p align="center">
+  <i>
+    <font color="#f5ce65">
+      Currently pursuing a degree in Convincing Computers to Do What I Said.
+    </font>
+  </i>
 </p>
 
 </div>
+
 
 <hr>
 
@@ -107,8 +116,8 @@ A local AI shark companion exploring personality, memory, trust, and embodiment.
 
 <hr>
 
-<div align="center">
-
-<p><i>Built with curiosity, stubbornness, and questionable restraint.</i></p>
-
+<div>
+   <p align="center">
+    <i>Watch me struggle with CSS, Python and JS by myself, in the ripe and bright age of AI. ✨</i>
+  </p>
 </div>
